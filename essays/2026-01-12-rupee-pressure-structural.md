@@ -71,6 +71,17 @@ Understanding the difference between these two types of explanations is importan
 
 ---
 
-## What This Implies
+## The Balance of Payments Lens
 
-[Open questions, no solutions yet.]
+A structural perspective on currency pressure naturally brings attention to a country’s external accounts. Exchange rates are not determined only by financial market sentiment or short-term capital movements. Over time, they are closely linked to how an economy earns foreign exchange and how it pays for its external obligations.
+
+The Balance of Payments framework provides a way to organise this relationship. At a basic level, it records how much foreign exchange a country earns through exports and other external income, and how much it spends on imports and external payments. When spending consistently exceeds earnings, the gap must be financed through external inflows.
+
+Such financing can take different forms. It may come from foreign investment, borrowing, or other capital flows. These inflows can help meet immediate financing needs and may support currency stability in the short term. However, they do not change the underlying balance between foreign exchange earnings and expenditures.
+
+Over longer periods, the composition of external earnings becomes important. An economy that generates steady and broad-based foreign exchange inflows is generally better positioned to absorb external shocks. When foreign exchange earnings are narrow or uneven, currency stability can become more sensitive to changes in global conditions.
+
+This does not imply that external deficits automatically lead to instability. Many economies run deficits without facing immediate pressure. What matters is how those deficits are financed and whether external earnings grow in a way that keeps pace with external obligations. Persistent reliance on certain forms of financing may delay adjustment, but it can also increase exposure to shifts in global financial conditions.
+
+Viewing currency pressure through the Balance of Payments lens helps connect short-term movements to longer-term dynamics. It shifts attention from individual episodes to the structure of external accounts and how they evolve over time. This perspective helps explain why currency pressure can recur even when immediate conditions appear favourable.
+
