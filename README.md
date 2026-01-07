@@ -1,3 +1,5 @@
+[Home](/) | [Essays](/essays/)
+
 # Writing on systems and scale
 
 This space is a public archive of my writing on how systems work at scale — from organisations and execution environments to economic and institutional structures.
