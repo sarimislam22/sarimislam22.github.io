@@ -1,3 +1,5 @@
+[← Home](/) | [All Essays](/essays/)
+
 # Why India’s Rupee Pressure Is a Structural Problem, Not a Cyclical One
 
 *Published: January 12, 2026*
