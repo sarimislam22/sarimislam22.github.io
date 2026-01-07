@@ -8,7 +8,16 @@
 
 ## Introduction
 
-[Write the introduction here.]
+Periods of pressure on the Indian rupee are a familiar feature of the country’s economic landscape. These episodes are typically explained through proximate factors such as shifts in global interest rates, changes in commodity prices, fluctuations in capital flows, or episodes of heightened global uncertainty. Such explanations are useful in understanding when currency pressures intensify and why they appear more acute at specific moments.
+
+However, the recurrence of similar pressures across different global environments and domestic policy regimes raises a broader analytical question. If currency stress were driven primarily by temporary shocks, one would expect periods of stability to follow once those shocks dissipate. The repeated re-emergence of pressure suggests that short-term explanations may not fully account for the persistence of the phenomenon.
+This distinction between cyclical and structural explanations is central to understanding currency dynamics over longer horizons. Cyclical factors operate through temporary disturbances - global financial tightening, risk-off episodes, or price shocks, that reverse as conditions normalise. Structural factors, by contrast, are embedded in the underlying configuration of an economy and tend to reassert themselves unless those configurations change.
+
+When looking at exchange rate stability, it is often useful to focus on a country’s external accounts. The Balance of Payments framework helps explain how an economy earns foreign exchange, how it pays for what it imports, and how it finances any gaps in between. Relying on certain sources of external financing may not cause immediate problems, but over time it can influence how exposed an economy is to external shocks.
+
+This essay adopts a structural perspective to examine why pressures on the rupee have tended to recur over time. Rather than focusing on short-term triggers, it seeks to understand the deeper conditions that shape India’s external position and currency outcomes. The aim is not to propose policy solutions, but to clarify the nature of the problem before engaging with questions of reform or adjustment.
+
+Understanding these structural conditions also raises further questions about the composition of India’s external earnings and the sources of long-term foreign exchange stability - questions that merit closer examination.
 
 ---
 
