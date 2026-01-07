@@ -55,9 +55,19 @@ Recognising this pattern of recurrence helps shift the focus from isolated event
 
 ---
 
-## Structural vs Cyclical Explanations
+## Cyclical and Structural Explanations
 
-[Make the core distinction.]
+When analysing economic outcomes, it is often useful to distinguish between cyclical and structural explanations. This distinction helps clarify whether a problem is temporary in nature or rooted more deeply in the way a system is organised.
+
+Cyclical factors refer to influences that operate over shorter periods of time. These include changes in global financial conditions, shifts in investor sentiment, commodity price movements, or business cycle fluctuations. Such factors tend to rise and fall with changing conditions. When the cycle turns, their effects often weaken or reverse.
+
+Structural factors, by contrast, are linked to more persistent features of an economy. They relate to how production is organised, how trade is structured, how income is generated from external sources, and how external imbalances are financed. These features change slowly over time and tend to shape outcomes across multiple cycles.
+
+Applied to exchange rates, this distinction becomes particularly relevant. A cyclical explanation would suggest that currency pressure is mainly the result of temporary shocks and should ease once conditions normalise. A structural explanation, however, suggests that underlying conditions continue to generate pressure, even when the specific triggers change.
+
+This does not mean that cyclical and structural factors operate in isolation. In practice, short-term shocks often interact with longer-term conditions. Cyclical events can expose or amplify structural weaknesses, making pressure more visible during certain periods.
+
+Understanding the difference between these two types of explanations is important because it shapes how recurring outcomes are interpreted. If repeated currency pressure is viewed only through a cyclical lens, attention remains focused on immediate triggers. A structural lens, in contrast, encourages examination of deeper conditions that persist across time and across different economic environments.
 
 ---
 
