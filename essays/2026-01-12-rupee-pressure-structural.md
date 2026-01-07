@@ -36,7 +36,6 @@ Global events and geopolitical developments are often cited as well. Financial c
 These explanations are useful in understanding the timing of currency movements. They help explain why pressure on the rupee may increase during certain periods and ease during others. However, they mainly describe short-term fluctuations. On their own, they do not fully explain why similar episodes of pressure tend to return over time.
 
 
-
 ---
 
 ## The Pattern of Recurrence
@@ -85,3 +84,14 @@ This does not imply that external deficits automatically lead to instability. Ma
 
 Viewing currency pressure through the Balance of Payments lens helps connect short-term movements to longer-term dynamics. It shifts attention from individual episodes to the structure of external accounts and how they evolve over time. This perspective helps explain why currency pressure can recur even when immediate conditions appear favourable.
 
+---
+
+## Conclusion
+
+Discussions about the rupee often focus on what has changed most recently - global interest rates, commodity prices, or shifts in investor sentiment. These factors matter, but they tend to draw attention toward immediate triggers rather than underlying conditions. When similar episodes of pressure recur over time, it becomes useful to step back and reconsider how the problem is being framed.
+
+A structural perspective does not treat currency pressure as a sequence of isolated events. Instead, it views these episodes as outcomes shaped by deeper features of the economy and its external position. From this viewpoint, short-term shocks act less as causes on their own and more as moments that reveal existing vulnerabilities.
+
+Looking through the Balance of Payments lens reinforces this shift in perspective. It highlights the relationship between how foreign exchange is earned, how external obligations are met, and how gaps are financed. Over time, these relationships shape the degree of resilience an economy has when external conditions change.
+
+Approaching rupee pressure in this way does not provide immediate answers, nor does it suggest simple remedies. What it does offer is a clearer way to think about why pressures persist and why they reappear under different circumstances. This reframing opens up further questions about the sources of long-term external stability and the structure of external earnings - questions that deserve closer examination.
