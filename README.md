@@ -10,6 +10,8 @@ My work examines India’s recurring currency pressure through a **structural Ba
 
 ## Core Research Thesis
 
+*A detailed statement of the research thesis is available here:*  [Read the core research thesis](core-thesis.md)
+
 India’s repeated episodes of rupee depreciation reflect a structural external-sector constraint rather than a sequence of isolated cyclical shocks.
 
 While capital inflows have enabled the financing of current account deficits, they have not altered the underlying configuration of foreign exchange generation. Over time, this has left the currency sensitive to global financial conditions and external shocks.
